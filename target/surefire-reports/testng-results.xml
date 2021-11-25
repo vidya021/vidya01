@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="12389" started-at="2021-11-11T11:33:14 IST" finished-at="2021-11-11T11:33:27 IST">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateOrganizationTest.createorg()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="createorg" class="com.crm.comcast.organizationTest.CreateOrganizationTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test name="Command line test" duration-ms="12389" started-at="2021-11-11T11:33:14 IST" finished-at="2021-11-11T11:33:27 IST">
+      <class name="com.crm.comcast.organizationTest.CreateOrganizationTest">
+        <test-method status="PASS" signature="ConfigBs()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="ConfigBs" is-config="true" duration-ms="0" started-at="2021-11-11T11:33:14 IST" finished-at="2021-11-11T11:33:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBs -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="configBC" is-config="true" duration-ms="2224" started-at="2021-11-11T11:33:14 IST" finished-at="2021-11-11T11:33:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="configBM" is-config="true" duration-ms="2546" started-at="2021-11-11T11:33:17 IST" finished-at="2021-11-11T11:33:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createorg()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="createorg" duration-ms="6062" started-at="2021-11-11T11:33:19 IST" finished-at="2021-11-11T11:33:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createorg -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="configAM" is-config="true" duration-ms="916" started-at="2021-11-11T11:33:25 IST" finished-at="2021-11-11T11:33:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="configAC" is-config="true" duration-ms="614" started-at="2021-11-11T11:33:26 IST" finished-at="2021-11-11T11:33:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.crm.comcast.organizationTest.CreateOrganizationTest@6e1567f1]" name="configAS" is-config="true" duration-ms="0" started-at="2021-11-11T11:33:27 IST" finished-at="2021-11-11T11:33:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.crm.comcast.organizationTest.CreateOrganizationTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

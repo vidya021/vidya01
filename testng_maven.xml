@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.crm.comcast.organizationTest.CreateOrganizationTest"/>
+      <class name="com.crm.comcast.contactTest.CreateContact"/>
+      <class name="db_practice.TakeScreenshot"/>
+      <class name="db_practice.MavenParameter"/>
+      <class name="db_practice.MavenProfile2"/>
+      <class name="db_practice.MavenProfile"/>
+      <class name="com.crm.comcast.contactTest.fail"/>
+      <class name="com.crm.comcast.organizationTest.Createorganization"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
